@@ -1,0 +1,1 @@
+Arquivo criado para fins de entrega de atividade sobre Git e GitHub
